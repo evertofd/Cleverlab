@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#particles-js {
+  /* background-color: #888; */
+  height: 100vh;
+}
+
+.card_img {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.proyect_imagen {
+  transition: 2s;
+}
+.proyect_imagen:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+h6 {
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+
+#pageintro {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.icon {
+  margin-bottom: 30px;
+  font-size: 42px;
+  color: #829da2;
+}
+
+.icon-footer {
+  margin-bottom: 30px;
+  font-size: 20px;
+  color: #829da2;
+}
+
+.one_quarter {
+  width: 21%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.color-text {
+  color: #828483;
+}
+
+footer {
+  background-color: rgb(26, 37, 47);
+}
+
+h2 {
+  color: #828483;
+}
+
+.carousel-indicators {
+  transform: translateY(80px);
+}
+
+.carousel-indicators li {
+  background-color: black !important;
+}
+
+.navbar-fixed-top.scrolled {
+  background-color: rgb(26, 37, 47) !important;
+  transition: background-color 200ms linear;
+}
+
+.navbar-fixed-top.scrolled .nav-link {
+  color: #555;
+}
+
+#pageintro {
+  position: absolute;
+  color: white;
+  z-index: 5;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  top: 225px;
+}
+
+.intro {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 20px;
+}
+
+form {
+  margin: 50px;
+}
+
+label {
+  color: #828483;
+}
+
+.mandatori {
+  margin-left: 5px;
+  color: red;
+}
+
+p {
+  text-align: justify;
+  color: #828483;
+}
+
+.somos {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.p_proyect {
+  font-size: 22px;
+  color: #828483;
+}
+
+.protesis {
+  border-top: 1px solid #828483;
+  margin-top: 20px;
+  border-bottom: 1px solid #828483;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.exoesqueletos  {
+  margin-top: 20px;
+  border-bottom: 1px solid #828483;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.rehabilitacion{
+  margin-top: 20px;
+  border-bottom: 1px solid #828483;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.icon-footer{
+  color: #fff;
+}
